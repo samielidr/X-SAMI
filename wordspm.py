@@ -1,6 +1,4 @@
-from termcolor import colored
-
-print(colored("                                    WORD SPAMMER BY X-SAMI",'yellow'))
+print("                                    WORD SPAMMER BY X-SAMI")
 
 word = input ("the word:    ")
 amount = int (input('How much time:  ', ))
@@ -12,5 +10,5 @@ if word != ("sami"):
         print(word)
 
 
-print (colored('                    script by Xsami, Thanks for using!', 'green'))
+print ('                    script by Xsami, Thanks for using!')
 
